@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#header {
+    background-color: aqua;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+
+}
+h1{
+    vertical-align: middle;
+    color: black;
+    font-weight: bolder;
+}
+
+.row{
+    margin: 15px 20px;
+}
+#results{
+    margin: 30px 15px 10px 0px;
+}
+.person-row{
+    margin: 10px 5px;
+    padding: 10px;
+    background-color: blue;
+    width: 100%;
+}
+
+.person-row img {
+    float: left;
+    margin-right: 10px;
+}
